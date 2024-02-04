@@ -17,18 +17,6 @@
       "type": "income",
       "amount": 6,
       "id": 3
-    },
-    {
-      "name": "Review Service",
-      "type": "income",
-      "amount": 12,
-      "id": 4
-    },
-    {
-      "name": "Review Service",
-      "type": "expense",
-      "amount": 12,
-      "id": 5
     }
   ]
 }
